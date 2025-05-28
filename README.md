@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/1fa3697b-f8e4-42ed-8f32-b053952c83e3" alt="Profile" width="400" height="auto" />
 
-### I'm a Computer Science student
+### I’m a Computer Engineering student 
 
 🚀 Passionate about technology, mobile apps, web development, and robotics. I'm always eager to learn new things and apply my knowledge to create useful and innovative solutions.
 
