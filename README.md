@@ -1,4 +1,4 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/1fa3697b-f8e4-42ed-8f32-b053952c83e3)## Hi there 👋
 
 <!--
 **nashdevcode/nashdevcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
