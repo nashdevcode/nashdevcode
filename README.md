@@ -1,16 +1,24 @@
-![image](https://github.com/user-attachments/assets/1fa3697b-f8e4-42ed-8f32-b053952c83e3)## Hi there 👋
+## Hi there 👋
 
-<!--
-**nashdevcode/nashdevcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/user-attachments/assets/1fa3697b-f8e4-42ed-8f32-b053952c83e3" alt="Profile" width="400" height="auto" />
 
-Here are some ideas to get you started:
+### I'm a Computer Science student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Passionate about technology, mobile apps, web development, and robotics. I'm always eager to learn new things and apply my knowledge to create useful and innovative solutions.
+
+🛠️ Currently learning about:
+- Mobile app development with **Swift** and **Kotlin**
+- Fundamentals of **Artificial Intelligence** and **Machine Learning**
+- Automation with **Python** and **JavaScript**
+- Frontend development with **React.js** and **Tailwind CSS**
+
+👾 Interested in collaborating on projects related to:
+- Educational software development
+- Social impact mobile applications
+- Robotics and IoT projects
+
+📫 **How to reach me**:
+- LinkedIn: [Nashdevcode]
+- GitHub: [your-profile]
+
+✨ **Fun fact**: I love coffee, great conversations, and sharing ideas about the future of technology!
