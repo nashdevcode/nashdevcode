@@ -19,6 +19,5 @@
 
 📫 **How to reach me**:
 - LinkedIn: [Nashdevcode]
-- GitHub: [your-profile]
 
 ✨ **Fun fact**: I love coffee, great conversations, and sharing ideas about the future of technology!
